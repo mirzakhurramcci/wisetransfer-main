@@ -1,0 +1,72 @@
+:root { 
+  --black: #000000;
+  --blue-10: #375173;
+  --blue-30: #00a2dd;
+  --gray: #536669;
+  --green-10: #2ead4b;
+  --highlighter: #edf4fc;
+  --white: #ffffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xs: 12px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+}
+.h1latobold26px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.h3latobold16px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.subtitle-1latosemibold16px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.subtitle-2latosemibold14px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.18px;
+}
+
+.body-1latoregular16px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+}
+
+.body-2latoregular14 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+}
+
+.body-3latoregular12px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.15px;
+}

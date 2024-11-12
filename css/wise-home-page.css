@@ -1,0 +1,1179 @@
+/* screen - wise-home-page */
+
+.wise-home-page {
+  align-items: center;
+  background-color: var(--highlighter);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  height: 1024px;
+  width: 1440px;
+}
+
+.wise-home-page .frame-23 {
+  align-items: center;
+  background-color: var(--highlighter);
+  display: flex;
+  gap: 274px;
+  height: 77px;
+  padding: 16px 44px;
+  width: 1440px;
+}
+
+.wise-home-page .transferwise-vector-logo-2022-1 {
+  align-self: flex-end;
+  height: 44px;
+  width: 118px;
+}
+
+.wise-home-page .frame-24 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 54px;
+  display: flex;
+  gap: 10px;
+  height: 41px;
+  overflow: hidden;
+  padding: 8px 25px;
+  width: 864px;
+}
+
+.wise-home-page .icon-search {
+  align-self: flex-end;
+  height: 23px;
+  width: 23px;
+}
+
+.wise-home-page .search-for-anything {
+  color: var(--gray);
+  font-weight: 400;
+  height: 19px;
+  line-height: 24px;
+  margin-bottom: 2.0px;
+  text-align: center;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.wise-home-page .group-32940 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  height: 859px;
+  min-width: 1158px;
+}
+
+.wise-home-page .frame-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  min-height: 859px;
+  width: 256px;
+}
+
+.wise-home-page .frame-13 {
+  align-items: center;
+  background-color: var(--blue-30);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  min-height: 269px;
+  padding: 39px 0;
+  width: 256px;
+}
+
+.wise-home-page .ellipse-2 {
+  height: 100px;
+  margin-right: 16.0px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.wise-home-page .frame-9 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .emad-abu-saileek {
+  color: var(--white);
+  font-weight: 700;
+  height: 16px;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.wise-home-page .frame-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .amm-jo {
+  color: var(--highlighter);
+  font-weight: 600;
+  height: 16px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .checking-acc-xxxx8192 {
+  color: var(--highlighter);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.wise-home-page .frame-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  gap: 20px;
+  height: 563px;
+  overflow: hidden;
+  padding: 16px 0;
+  width: 256px;
+}
+
+.wise-home-page .frame-12 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: 21px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .frame {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .icon-home {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .place-1 {
+  color: var(--blue-30);
+  font-weight: 600;
+  height: 16px;
+  line-height: 36px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .carbonanalytics {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .investments {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .frame-22 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 1px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .icons8-loan-68-1 {
+  height: 22px;
+  min-width: 22px;
+  object-fit: cover;
+  position: relative;
+}
+
+.wise-home-page .loans {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .carbonumbrella {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .insurance {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .carboncalculator {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .debts {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .fluent-mdl2money {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .overdraft {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .icon-gift {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .benefits-club {
+  color: var(--gray);
+  font-weight: 400;
+  height: 16px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.wise-home-page .octicontrophy-24 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .points-and-advantages {
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .fluentpeople-team-24-regular {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .consortium {
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .rimoney-dollar-circle-line {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .capitalizing-bond {
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .fluent-emoji-flatcurrency-exchange {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .currency-exchange {
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .icon-shield {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.wise-home-page .security {
+  color: var(--gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .line-1 {
+  height: 35px;
+  width: 5px;
+}
+
+.wise-home-page .flex-col {
+  flex-direction: column;
+  gap: 26px;
+  min-height: 859px;
+  width: 862px;
+}
+
+.wise-home-page .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: 269px;
+  min-width: 862px;
+}
+
+.wise-home-page .frame-14 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 6px 4px 15px #93d2ea45;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  min-height: 269px;
+  padding: 13px 34px;
+  width: 304px;
+}
+
+.wise-home-page .overlap-group1 {
+  height: 123px;
+  position: relative;
+  width: 189px;
+}
+
+.wise-home-page .checking-account-balance {
+  color: var(--blue-10);
+  font-weight: 700;
+  height: 56px;
+  left: 0;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wise-home-page .overlap-group-2 {
+  height: 79px;
+  left: 8px;
+  position: absolute;
+  top: 44px;
+  width: 137px;
+}
+
+.wise-home-page .available-balance {
+  color: var(--gray);
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.wise-home-page .price-1 {
+  color: var(--blue-30);
+  font-weight: 700;
+  height: 72px;
+  left: 8px;
+  line-height: 72px;
+  text-align: center;
+}
+
+.wise-home-page .line-2 {
+  align-self: center;
+  height: 1px;
+  object-fit: cover;
+  width: 220px;
+}
+
+.wise-home-page .frame-15 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 6px 4px 15px #93d2ea45;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  min-height: 269px;
+  padding: 13px 0;
+  width: 534px;
+}
+
+.wise-home-page .credit-card-balance {
+  align-self: flex-start;
+  color: var(--blue-10);
+  font-weight: 700;
+  height: 56px;
+  line-height: 56px;
+  margin-left: 34px;
+  white-space: nowrap;
+}
+
+.wise-home-page .frame-26 {
+  align-items: flex-start;
+  background-color: var(--highlighter);
+  border-radius: 39px;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  width: 484px;
+}
+
+.wise-home-page .overlap-group-3 {
+  height: 24px;
+  margin-top: -2px;
+  position: relative;
+  width: 484px;
+}
+
+.wise-home-page .rectangle-1 {
+  background-color: var(--green-10);
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 484px;
+}
+
+.wise-home-page .price-2 {
+  color: var(--white);
+  font-weight: 400;
+  height: 24px;
+  left: 28px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.wise-home-page .frame-28 {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  position: relative;
+  width: 484px;
+}
+
+.wise-home-page .frame-31 {
+  height: 97px;
+  min-width: 150px;
+  position: relative;
+}
+
+.wise-home-page .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/set-cards-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  min-height: 97px;
+  padding: 10.8px 10.7px;
+  width: 149px;
+}
+
+.wise-home-page .vector {
+  height: 18px;
+  margin-left: 1.08px;
+  margin-top: 11px;
+  width: 22px;
+}
+
+.wise-home-page .frame-30 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 13px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .group-32938 {
+  height: 7.86px;
+  min-width: 83.23px;
+  position: relative;
+}
+
+.wise-home-page .number {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.84px;
+  position: relative;
+  transform: rotate(0.59deg);
+  width: fit-content;
+}
+
+.wise-home-page .design {
+  background: linear-gradient(180deg, rgb(63.62, 208.25, 35.92) 0.4%, rgb(163.98, 242.25, 138.69) 82.91%);
+  border-radius: 8px;
+  height: 97px;
+  min-width: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
+.wise-home-page .overlap-group1-1 {
+  height: 97px;
+  position: relative;
+  width: 150px;
+}
+
+.wise-home-page .design-1 {
+  height: 97px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.wise-home-page .vector-1 {
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+}
+
+.wise-home-page .frame-30-1 {
+  align-items: center;
+  display: flex;
+  gap: 13px;
+  left: 11px;
+  position: absolute;
+  top: 70px;
+  width: fit-content;
+}
+
+.wise-home-page .group-32938-1 {
+  height: 7.86px;
+  min-width: 83.23px;
+  position: relative;
+}
+
+.wise-home-page .frame-29 {
+  background-color: var(--highlighter);
+  border-radius: 8px;
+  height: 97px;
+  min-width: 150px;
+  position: relative;
+}
+
+.wise-home-page .frame-32 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 43px;
+  position: relative;
+  top: 33px;
+  width: fit-content;
+}
+
+.wise-home-page .material-symbolsadd {
+  height: 15px;
+  min-width: 15px;
+  position: relative;
+}
+
+.wise-home-page .add-a-card {
+  color: var(--gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  transform: rotate(0.59deg);
+  width: fit-content;
+}
+
+.wise-home-page .frame-33 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .frame-1 {
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 6px 4px 15px #93d2ea45;
+  height: 102px;
+  min-width: 153px;
+  position: relative;
+}
+
+.wise-home-page .frame-34 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 36px;
+  position: relative;
+  top: 20px;
+  width: fit-content;
+}
+
+.wise-home-page .icoutline-receipt-long {
+  height: 33px;
+  min-width: 33px;
+  position: relative;
+}
+
+.wise-home-page .statements {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .frame-34-1 {
+  align-items: center;
+  gap: 6px;
+  left: 44px;
+  position: relative;
+  top: 20px;
+  width: fit-content;
+}
+
+.wise-home-page .mingcutetransfer-3-line {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.wise-home-page .transfers {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .frame-34-2 {
+  align-items: center;
+  gap: 6px;
+  left: 42px;
+  position: relative;
+  top: 20px;
+  width: fit-content;
+}
+
+.wise-home-page .mdibarcode-scan {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.wise-home-page .payments {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .frame-34-3 {
+  align-items: center;
+  gap: 6px;
+  left: 62px;
+  position: relative;
+  top: 21px;
+  width: fit-content;
+}
+
+.wise-home-page .group-32939 {
+  border: 2px solid;
+  border-color: var(--black);
+  height: 20.68px;
+  min-width: 20.68px;
+  position: relative;
+  transform: rotate(45deg);
+}
+
+.wise-home-page .vector-container {
+  height: 22px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 22px;
+}
+
+.wise-home-page .vector-30 {
+  height: 15px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(-45deg);
+  width: 15px;
+}
+
+.wise-home-page .pix {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .frame-34-4 {
+  align-items: center;
+  gap: 6px;
+  left: 50px;
+  position: relative;
+  top: 20px;
+  width: fit-content;
+}
+
+.wise-home-page .fluentsavings-24-regular {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.wise-home-page .savings {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.wise-home-page .frame-34-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 6px 4px 15px #93d2ea45;
+  gap: 11px;
+  min-height: 436px;
+  padding: 13px 11px;
+  width: 861px;
+  overflow-y: scroll;
+}
+
+.wise-home-page .transactions {
+  color: var(--blue-10);
+  font-weight: 700;
+  height: 56px;
+  line-height: 56px;
+  margin-left: 31px;
+  min-width: 90px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wise-home-page .name {
+  color: var(--gray);
+  font-weight: 400;
+  height: 24px;
+  line-height: 24px;
+  margin-left: 25px;
+  min-width: 111px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wise-home-page .flex-row {
+  align-self: flex-end;
+  height: 306px;
+  min-width: 770px;
+}
+
+.wise-home-page .frame-5866 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: fit-content;
+  top: 40%
+}
+
+.wise-home-page .frame-587 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .group-32941 {
+  height: 24px;
+  margin-right: -2.00px;
+  min-width: 26px;
+  position: relative;
+}
+
+.wise-home-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--gray);
+  border-radius: 12px;
+  display: flex;
+  min-width: 24px;
+  padding: 0 4px;
+}
+
+.wise-home-page .number-1 {
+  color: var(--white);
+  font-weight: 400;
+  height: 24px;
+  line-height: 24px;
+  min-width: 15px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.wise-home-page .line-49-1 {
+  height: 39px;
+}
+
+.wise-home-page .line-49 {
+  height: 50px;
+  min-width: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.wise-home-page .line-49-2 {
+  height: 47px;
+}
+
+.wise-home-page .frame-5871 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 40px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .frame-58 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.wise-home-page .group-32947 {
+  height: 60px;
+  margin-right: -8.00px;
+  min-width: 613px;
+  position: relative;
+}
+
+.wise-home-page .overlap-group-1 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.wise-home-page .place {
+  color: var(--blue-10);
+  font-weight: 400;
+  height: 24px;
+  left: 1px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wise-home-page .int-transfer {
+  color: var(--gray);
+  font-weight: 400;
+  height: 24px;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.wise-home-page .xxxx-xxxx-xxxx-xxxx {
+  color: var(--gray);
+  font-weight: 400;
+  height: 24px;
+  left: 1px;
+  line-height: 24px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.wise-home-page .price-3 {
+  color: var(--green-10);
+  font-weight: 400;
+  height: 24px;
+  left: 543px;
+  line-height: 24px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.wise-home-page .line-51 {
+  height: 1px;
+  margin-bottom: -0.50px;
+  min-width: 598px;
+  position: relative;
+}
+
+.wise-home-page .price {
+  color: var(--green-10);
+  font-weight: 400;
+  height: 24px;
+  left: 543px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wise-home-page .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--highlighter);
+  border-radius: 3px;
+  display: flex;
+  height: 301px;
+  margin-left: 93px;
+  min-width: 8px;
+  padding: 35px 0;
+}
+
+.wise-home-page .rectangle-579 {
+  background-color: var(--gray);
+  border-radius: 3px;
+  height: 103px;
+  width: 8px;
+}
+
+.wise-home-page .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.wise-home-page .frame-34-6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.wise-home-page .line-49-3 {
+  min-width: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.wise-home-page .price-4 {
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  -webkit-animation-name: fadeIn; /* Fade in the background */
+  -webkit-animation-duration: 0.4s;
+  animation-name: fadeIn;
+  animation-duration: 0.4s
+}
+
+.rounder-input-search {
+  border-radius: 25px;
+    border: 0px;
+    padding: 20px; 
+    width: 865px;
+    height: 15px;  
+}
+
+*:focus {
+  outline: none;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Modal Content */
+.modal-content {
+  position: fixed;
+  bottom: 0;
+  background-color: #fefefe;
+  width: 100%;
+  height: 60px;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideIn;
+  animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+  color: black;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+}
+
+.modal-body {padding: 16px;}
+
+.modal-footer {
+  padding: 2px 16px;
+}
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+  from {bottom: -300px; opacity: 0} 
+  to {bottom: 0; opacity: 1}
+}
+
+@keyframes slideIn {
+  from {bottom: -300px; opacity: 0}
+  to {bottom: 0; opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
